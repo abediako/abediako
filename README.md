@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @abediako
-- 👀 I’m interested in using computer science to solve or help social issues with marginalized communities.
-- 🌱 I’m currently learning Java and C# on Unity. I have the most experience with HTML and CSS. I plan to add on JavaScript.
-- 💞️ I’m looking to collaborate on any projects that are intersectional in the arts or social advancement,
+-💻 CS + Cognitive Science @ UVA '27, interested in the intersection of frontend development, product management, and human-centered design.
+-🎨 I enjoy building intuitive digital experiences, exploring new ideas, and figuring out how technology can better serve people.
+-🌱 Currently exploring React, TypeScript, and user-centered product development.
+-🤝 Always interested in projects that bring together technology, creativity, and meaningful real-world impact.
 - 📫 How to reach me: Email me at audrey.bediako@virginia.edu or audrey.bediako27@gmail.com
 
 <!---
